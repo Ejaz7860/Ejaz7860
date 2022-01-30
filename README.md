@@ -2,7 +2,7 @@
 - Programming Language -  C, C++, Java
 - Frontend Technology - HTML, CSS,JavaScript
 - CSS Framework : Bootstrap, Tailwind CSS
-- JavaScript Library : React JS, JQuery
+- JavaScript Library : React JS
 - Backend : NodeJs, PHP, Express JS
 - Database RDBMS/NOSQL: MySQL, PostgreSQL | MongoDB, Firebase
 - App Development : React Native
