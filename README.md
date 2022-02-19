@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Ejaz
-- Programming Language -  C, C++, Java
+- Programming Language - Java, JavaScript
 - Frontend Technology - HTML, CSS,JavaScript
 - CSS Framework : Bootstrap, Tailwind CSS
 - JavaScript Library : React JS
