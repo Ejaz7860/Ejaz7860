@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mohammad Ejaz
 - Programming Language - Java, JavaScript
-- Frontend Technology - HTML, CSS,JavaScript
-- CSS Framework : Bootstrap, Tailwind CSS
-- JavaScript Library : React JS
-- Backend : NodeJs, PHP, Express JS
-- Database RDBMS/NOSQL: MySQL, PostgreSQL | MongoDB, Firebase
+- Frontend Technology - HTML, CSS, JavaScript
+- CSS Framework : Bootstrap, Tailwind CSS, Material UI
+- JavaScript Library : React JS [Redux, Context-API, Hooks, react-router-dom ]
+- Backend : NodeJs, Express JS
+- Database: MySQL/ MongoDB
 
 <!---
 Ejaz7860/Ejaz7860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
