@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Ejaz
 - Programming Language - Java, JavaScript
 - Frontend Technology - HTML, CSS, JavaScript
-- CSS Framework : Bootstrap, Tailwind CSS, Material UI
+- CSS Framework : Bootstrap, Tailwind CSS,Chakra UI, Material UI
 - JavaScript Library : React JS [Redux, Context-API, Hooks, react-router-dom ]
 - Backend : NodeJs, Express JS
 - Database: MySQL/ MongoDB
