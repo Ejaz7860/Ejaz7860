@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ejaz</h1>
-<h3 align="center">3 years of experience as Software Developer at https://prisms.in/🚀</h3>
+<h3 align="center">3 years of experience as a Software Developer at https://prisms.in/🚀</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48273732/144821939-46d9331b-785a-4c45-9ed7-bc2b9a420a06.gif" width="60%" alt="Banner">
